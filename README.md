@@ -8,7 +8,7 @@ In this project, we used **fine-tuning** and **few-shot prompting** techniques t
 
 The full project report, alongside the code and data, can be found in this repository.
 
-This was a course final project for CS 8003 LLM (Large Language Models).
+This was a course final project for CS 8803 LLM (Large Language Models).
 
 ### Directory structure
 
